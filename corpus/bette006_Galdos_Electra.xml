@@ -17,9 +17,9 @@
 					<idno type="viaf">71395987</idno>
 					<idno type="bne">XX1014802</idno>
 				</author>
+				<principal xml:id="emc">Elena Martínez Carro</principal>
 				<principal xml:id="tsm">Teresa Santa María</principal>
 				<principal xml:id="jct">José Calvo Tello</principal>
-				<principal xml:id="emc">Elena Martínez Carro</principal>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>Ghedi (UNIR)</publisher>
